@@ -1,0 +1,19 @@
+                                        Program for painting company.
+     The program takes data from the customer.
+     *Customer's company name
+     *Soil layer
+     *Finish layer
+     *Number of metal squares
+     * Type of structures (determines the loss of paint during work) ------  did not have time
+     * Paint Storage (Customizable) ------  did not have time
+     *Finish color
+
+     As soon as the customer has entered his data, the program processes them.
+     * Calculates the amount of paint for painting structures.
+     *required number of buckets
+     *Cost of purchase of paint.
+     *leftover paint
+
+
+     Creates a file in a separate folder with the above data,
+      calculations and information about the order.

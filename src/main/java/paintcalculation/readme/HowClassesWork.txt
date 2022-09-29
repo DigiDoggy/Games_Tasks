@@ -1,0 +1,25 @@
+                                        Class - Main
+                        Here we receive data from the client.
+                        And from there they go to other classes and methods.
+
+                                        Class - ClientPath
+                        The class in which the client data fits.
+                        It is from this class that the work of other methods begins.
+
+                                        Class - DyeData
+                        The class in which the paint constant data.
+                        This class serves as a repository for technical paint data.
+
+                                        Class - Finish/ Grunt
+                        Classes store the volume of a can of paint and its volume.
+
+                                 Class - AmountOfFinish/AmountOfGrunt
+                        The classes are designed for such calculations as the amount
+                        of paint required for the amount of work, the number of cans
+                        for the work required.
+                        And the rest of the paint that will go to storage, if there
+                        is a remainder.
+
+                                        Abstract Class - Dye
+                        The class is necessary to understand how to work with
+                        abstract classes and methods.
