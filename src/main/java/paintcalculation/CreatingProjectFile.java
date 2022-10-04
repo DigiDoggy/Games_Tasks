@@ -1,6 +1,8 @@
 package paintcalculation;
 
-import freehw.paintcalculation.data.Storage;
+
+import paintcalculation.data.Storage;
+
 import java.io.File;
 import java.io.PrintWriter;
 

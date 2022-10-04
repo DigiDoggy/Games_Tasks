@@ -1,0 +1,31 @@
+4
+Given the string "strawberries" saved in a variable called fruit, what would fruit.substring(2, 5) return?
+raw
+rawb
+awb
+traw
+How can you achieve runtime polymorphism in Java?
+method overriding
+method overloading
+method overrunning
+method calling
+Given the following definitions, which of these expression will NOT evaluate to true?\n boolean b1 = true, b2 = false; int i1 = 1, i2 = 2;
+i2 && b1
+(i1 | i2) == 3
+b1 || !b2
+(i1 ^ i2) < 4
+How do you write a foreach loop that will iterate over ArrayList<Pencil>pencilCase?
+for (Pencil pencil : pencilCase) {}
+for (pencilCase.next()) {}
+for (Pencil pencil : pencilCase.iterator()) {}
+for (pencil in pencilCase) {}
+You have an ArrayList of names that you want to sort alphabetically. Which approach would NOT work?
+names.sort(List.DESCENDING)
+names.sort(Comparator.comparing(String::toString))
+Collections.sort(names)
+names.stream().sorted((s1, s2) -> s1.compareTo(s2)).collect(Collectors.toList())
+By implementing encapsulation, you cannot directly access the class's _ properties unless you are writing code inside the class itself.
+private
+protected
+no-modifier
+public

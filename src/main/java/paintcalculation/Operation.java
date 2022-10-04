@@ -2,12 +2,13 @@ package paintcalculation;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
+import java.util.Scanner;
 
-import static freehw.paintcalculation.ClientPath.scanner;
-import static freehw.paintcalculation.Price.getPriceInfo;
+import static paintcalculation.Price.getPriceInfo;
 
 public class Operation {
 
+    static Scanner scanner = new Scanner(System.in);
     //Floor rounding,to calculate the remaining paint
     public static float round(float number){
         return (float) Math.floor(number);
